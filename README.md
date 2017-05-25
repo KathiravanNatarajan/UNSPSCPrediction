@@ -10,3 +10,5 @@ So, Only choice is to go with Material description to predict the UNSPSC final c
 Bag of words are created based on the material description given in the dataset. 
 
 After creating bag of words, I allow the Random forest model to train with the given dataset. Once the model is trained, it becomes easy to predict the test set using the predict function of scikit-learn's predict function
+
+Word2Vector is also tested in Client's machine.
